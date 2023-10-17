@@ -479,4 +479,16 @@
     "module_number": 12,
     "certification": "paid"
   }
+{
+    "id": 53,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Using R for Data Analysis in Social Sciences",
+    "link": "https://www.educative.io/courses/using-r-data-analysis-social-sciences",
+    "difficulty": "intermediate",
+    "module_number": 11,
+    "certification": "paid"
+  }
+
+
 ]
