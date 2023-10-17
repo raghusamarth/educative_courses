@@ -479,4 +479,14 @@
     "module_number": 12,
     "certification": "paid"
   }
+ {
+    "id": 50,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Computing Matrix Algebra with R and Rcpp",
+    "link": "https://www.educative.io/courses/computing-matrix-algebra-with-r-and-rcpp",
+    "difficulty": "intermediate",
+    "module_number": 14,
+    "certification": "paid"
+  }
 ]
