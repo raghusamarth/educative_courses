@@ -718,5 +718,15 @@
     "difficulty": "beginner",
     "module_number": 7,
     "certification": "paid"
+  },
+  {
+    "id": 130,
+    "platform": "educative",
+    "free_course": "yes",
+    "course_name": "Learn Java from Scratch",
+    "link": "https://www.educative.io/courses/learn-java-from-scratch",
+    "difficulty": "beginner",
+    "module_number": 8,
+    "certification": "paid"
   }
 ]
