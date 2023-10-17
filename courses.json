@@ -488,5 +488,15 @@
     "difficulty": "beginner",
     "module_number": 8,
     "certification": "paid"
+  },
+  {
+    "id": 52,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Creating Payment Card Programs using Marqeta API in JavaScript",
+    "link": "https://www.educative.io/courses/handling-financial-services-with-square-api-in-javascript",
+    "difficulty": "beginner",
+    "module_number": 9,
+    "certification": "paid"
   }
 ]
