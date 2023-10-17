@@ -1,15 +1,5 @@
 [
   {
-    "id": 1,
-    "platform": "educative",
-    "free_course": "no",
-    "course_name": "Accelerated Linux Core Dump Analysis",
-    "link": "https://www.educative.io/courses/accelerated-linux-core-dump-analysis",
-    "difficulty": "advanced",
-    "module_number": 15,
-    "certification": "paid"
-  },
-  {
     "id": 2,
     "platform": "educative",
     "free_course": "no",
@@ -665,10 +655,19 @@
     "free_course": "no",
     "course_name": "Make Your Own Neural Network in Python",
     "link": "https://www.educative.io/courses/make-your-own-neural-network-in-python",
-    "diffic ulty": "beginner",
+    "difficulty": "beginner",
     "module_number": 12,
     "certification": "paid"
+  },
+  {
+   "id": 87,
+   "platform": "educative",
+   "free_course": "no",
+   "course_name": "Data Structures for Coding Interviews in Python",
+   "link": "https://www.educative.io/courses/data-structures-coding-interviews-python",
+   "diffic ulty": "beginner",
+   "module_number": 10,
+   "certification": "paid"
  }
-
 ]
 
