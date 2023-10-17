@@ -568,5 +568,15 @@
     "difficulty": "intermediate",
     "module_number": 7,
     "certification": "paid"
+  },
+    {
+    "id": 111,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Data Structures Preliminaries (Refresher of Fundamentals in C++)",
+    "link": "https://www.educative.io/courses/data-structures-preliminaries-refresher-of-fundamentals-in-cpp",
+    "difficulty": "intermediate",
+    "module_number": 7,
+    "certification": "paid"
   }
 ]
