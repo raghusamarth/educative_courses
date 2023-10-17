@@ -489,4 +489,15 @@
     "module_number": 8,
     "certification": "paid"
   }
+,
+    {
+    "id": 50,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "React and GraphQL: Build an E-commerce App with Hygraph",
+    "link": "https://www.educative.io/courses/react-and-graphql-build-an-e-commerce-app-with-hygraph",
+    "difficulty": "Intermediate",
+    "module_number": 8,
+    "certification": "paid"
+  }
 ]
