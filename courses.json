@@ -490,6 +490,16 @@
     "certification": "paid"
   },
   {
+    "id": 99,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name":" Python 3: An interactive deep dive",
+    "link": "https://www.educative.io/courses/python-3-an-interactive-deep-dive",
+    "difficulty": "beginner",
+    "module_number": 17,
+    "certification": "paid"
+  },
+  {
     "id": 101,
     "platform": "educative",
     "free_course": "no",
