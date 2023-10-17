@@ -490,6 +490,16 @@
     "certification": "paid"
   },
   {
+    "id": 51,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Testing React Applications with Postman and WebdriverIO",
+    "link": "https://www.educative.io/courses/testing-react-applications-with-postman-and-webdriver-io",
+    "difficulty": "beginner",
+    "module_number": 10,
+    "certification": "paid"
+  },
+    {
     "id": 53,
     "platform": "educative",
     "free_course": "no",
@@ -608,10 +618,9 @@
     "difficulty": "Intermediate",
     "module_number": 12,
     "certification": "paid"
-  }
-,
+  },
     {
-    "id": 50,
+    "id": 115,
     "platform": "educative",
     "free_course": "no",
     "course_name": "React and GraphQL: Build an E-commerce App with Hygraph",
@@ -619,8 +628,7 @@
     "difficulty": "Intermediate",
     "module_number": 8,
     "certification": "paid"
-  }
-,
+  },
     {
     "id": 91,
     "platform": "educative",
@@ -630,6 +638,6 @@
     "difficulty": "Intermediate",
     "module_number": 8,
     "certification": "paid"
-  }
+  }  
 ]
 
