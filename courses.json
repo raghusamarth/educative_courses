@@ -498,7 +498,146 @@
     "difficulty": "beginner",
     "module_number": 10,
     "certification": "paid"
-  }
-  
-  
+  },
+    {
+    "id": 53,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Handling Financial Services with Square API in JavaScript",
+    "link": "https://www.educative.io/courses/handling-financial-services-with-square-api-in-javascript",
+    "difficulty": "advanced",
+    "module_number": 8,
+    "certification": "paid"
+  },
+  {
+    "id": 52,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Creating Payment Card Programs using Marqeta API in JavaScript",
+    "link": "https://www.educative.io/courses/handling-financial-services-with-square-api-in-javascript",
+    "difficulty": "beginner",
+    "module_number": 9,
+    "certification": "paid"
+  },
+  {
+    "id": 98,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "A Visual Introduction to Algorithms",
+    "link": "https://www.educative.io/courses/visual-introduction-to-algorithms",
+    "difficulty": "beginner",
+    "module_number": 8,
+    "certification": "paid"
+  },
+  {
+    "id": 99,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name":" Python 3: An interactive deep dive",
+    "link": "https://www.educative.io/courses/python-3-an-interactive-deep-dive",
+    "difficulty": "beginner",
+    "module_number": 17,
+    "certification": "paid"
+  },
+  {
+    "id": 101,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Testing Vue.js Components with Jest",
+    "link": "https://www.educative.io/courses/testing-vuejs-components-with-jest",
+    "difficulty": "advanced",
+    "module_number": 10,
+    "certification": "paid"
+  },
+  {
+    "id": 100,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Hands-on Vue.js: Build a fully functional SPA",
+    "link": "https://www.educative.io/courses/hands-on-vue-js-build-fully-functional-spa",
+    "difficulty": "beginner",
+    "module_number": 8,
+    "certification": "paid"
+  },
+  {
+    "id": 108,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "C# Concurrency for Senior Engineering Interviews",
+    "link": "https://www.educative.io/courses/c-sharp-concurrency-for-senior-engineering-interviews",
+    "difficulty": "beginner",
+    "module_number": 5,
+    "certification": "paid"
+  },
+  {
+    "id": 109,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Learn to Code: C# for Absolute Beginners",
+    "link": "https://www.educative.io/courses/learn-to-code-c-sharp-for-absolute-beginners",
+    "difficulty": "beginner",
+    "module_number": 9,
+    "certification": "paid"
+  },
+  {
+    "id": 107,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Mastering C# and .NET",
+    "link": "https://www.educative.io/courses/mastering-c-sharp-and-dotnet",
+    "difficulty": "beginner",
+    "module_number": 18,
+    "certification": "paid"
+  },
+  {
+    "id": 106,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Getting Started with LINQ in C#",
+    "link": "https://www.educative.io/courses/getting-started-linq-c-sharp",
+    "difficulty": "intermediate",
+    "module_number": 7,
+    "certification": "paid"
+  },
+    {
+    "id": 90,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Surfacing Video Data with the Dailymotion Data API in JavaScript",
+    "link": "https://www.educative.io/courses/surfacing-video-data-with-the-dailymotion-data-api-in-javascript",
+    "difficulty": "beginner",
+    "module_number": 7,
+    "certification": "paid"
+  },
+    {
+    "id": 92,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Using fp-ts for Functional Programming in TypeScript",
+    "link": "https://www.educative.io/courses/using-fp-ts-for-functional-programming-in-typescript",
+    "difficulty": "Intermediate",
+    "module_number": 12,
+    "certification": "paid"
+  },
+    {
+    "id": 115,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "React and GraphQL: Build an E-commerce App with Hygraph",
+    "link": "https://www.educative.io/courses/react-and-graphql-build-an-e-commerce-app-with-hygraph",
+    "difficulty": "Intermediate",
+    "module_number": 8,
+    "certification": "paid"
+  },
+    {
+    "id": 91,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Animations in Angular",
+    "link": "https://www.educative.io/courses/animations-in-angular",
+    "difficulty": "Intermediate",
+    "module_number": 8,
+    "certification": "paid"
+  }  
 ]
+
