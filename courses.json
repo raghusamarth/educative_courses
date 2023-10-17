@@ -489,4 +489,15 @@
     "module_number": 8,
     "certification": "paid"
   }
+ ,
+    {
+    "id": 92,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Using fp-ts for Functional Programming in TypeScript",
+    "link": "https://www.educative.io/courses/using-fp-ts-for-functional-programming-in-typescript",
+    "difficulty": "Intermediate",
+    "module_number": 12,
+    "certification": "paid"
+  }
 ]
