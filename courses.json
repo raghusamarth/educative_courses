@@ -479,6 +479,16 @@
     "module_number": 12,
     "certification": "paid"
   },
+  {
+    "id" : 95,
+    "platform" : "educative",
+    "free_course" : "no",
+    "course_name" : "A Complete Guide to Java Programming",
+    "link" : "https://www.educative.io/courses/complete-guide-to-java-programming",
+    "difficulty" : "Beginner",
+    "module_number" : 14,
+    "certification" : "paid"
+  },   
     {
     "id": 50,
     "platform": "educative",
@@ -496,7 +506,7 @@
     "course_name": "Grokking Modern System Design Interview for Engineers & Managers",
     "link": "https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers",
     "difficulty": "beginner",
-    "module_number": 177,
+    "module_number": 40,
     "certification": "paid"
   },
   {
