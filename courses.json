@@ -489,6 +489,16 @@
     "module_number": 8,
     "certification": "paid"
   },
+    {
+    "id": 118,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Grokking Modern System Design Interview for Engineers & Managers",
+    "link": "https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers",
+    "difficulty": "beginner",
+    "module_number": 177,
+    "certification": "paid"
+  },
   {
     "id": 51,
     "platform": "educative",
