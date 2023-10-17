@@ -488,5 +488,15 @@
     "difficulty": "beginner",
     "module_number": 8,
     "certification": "paid"
+  },
+  {
+    "id": 53,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Handling Financial Services with Square API in JavaScript",
+    "link": "https://www.educative.io/courses/handling-financial-services-with-square-api-in-javascript",
+    "difficulty": "advanced",
+    "module_number": 8,
+    "certification": "paid"
   }
 ]
