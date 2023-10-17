@@ -1,5 +1,15 @@
 [
   {
+    "id": 1,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "learn to code :python for absolute beginners",
+    "link": "https://www.educative.io/courses/learn-to-code-python-for-absolute-beginners",
+    "difficulty": "beginners",
+    "module_number": 15,
+    "certification": "paid"
+   },
+  {
     "id": 2,
     "platform": "educative",
     "free_course": "no",
