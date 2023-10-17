@@ -658,6 +658,17 @@
     "difficulty": "Intermediate",
     "module_number": 8,
     "certification": "paid"
-  }  
+  },
+  {
+   "id": 87,
+   "platform": "educative",
+   "free_course": "no",
+   "course_name": "Data Structures for Coding Interviews in Python",
+   "link": "https://www.educative.io/courses/data-structures-coding-interviews-python",
+   "diffic ulty": "beginner",
+   "module_number": 10,
+   "certification": "paid"
+ }
+
 ]
 
