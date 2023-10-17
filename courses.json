@@ -665,9 +665,19 @@
    "free_course": "no",
    "course_name": "Data Structures for Coding Interviews in Python",
    "link": "https://www.educative.io/courses/data-structures-coding-interviews-python",
-   "diffic ulty": "beginner",
+   "difficulty": "beginner",
    "module_number": 10,
    "certification": "paid"
- }
+ },
+ {
+   "id": 89,
+   "platform": "educative",
+   "free_course": "no",
+   "course_name": "Full Speed Python",
+   "link": "https://www.educative.io/courses/full-speed-python",
+   "difficulty": "beginner",
+   "module_number": 9,
+   "certification": "paid"
+ } 
 ]
 
