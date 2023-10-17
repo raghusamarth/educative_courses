@@ -698,6 +698,15 @@
    "difficulty": "beginner",
    "module_number": 7,
    "certification": "paid"
- } 
+ },
+ {
+    "id": 51,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Mastering Algorithms for Problem Solving in C++",
+    "link": "https://www.educative.io/courses/mastering-algorithms-for-problem-solving-in-cpp",
+    "difficulty": "beginner",
+    "module_number": 7,
+    "certification": "paid"
+  }
 ]
-
