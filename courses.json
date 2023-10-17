@@ -489,4 +489,15 @@
     "module_number": 8,
     "certification": "paid"
   }
+,
+    {
+    "id": 91,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Animations in Angular",
+    "link": "https://www.educative.io/courses/animations-in-angular",
+    "difficulty": "Intermediate",
+    "module_number": 8,
+    "certification": "paid"
+  }
 ]
