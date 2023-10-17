@@ -479,4 +479,15 @@
     "module_number": 12,
     "certification": "paid"
   }
+{
+    "id": 52,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Game Data Science Using R",
+    "link": "https://www.educative.io/courses/game-data-science-using-r",
+    "difficulty": "intermediate",
+    "module_number": 15,
+    "certification": "paid"
+  }
+
 ]
