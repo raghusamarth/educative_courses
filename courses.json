@@ -639,7 +639,7 @@
     "module_number": 8,
     "certification": "paid"
   },
-  {
+    {
     "id": 91,
     "platform": "educative",
     "free_course": "no",
@@ -650,23 +650,13 @@
     "certification": "paid"
   },
   {
-    "id": 86,
-    "platform": "educative",
-    "free_course": "no",
-    "course_name": "Make Your Own Neural Network in Python",
-    "link": "https://www.educative.io/courses/make-your-own-neural-network-in-python",
-    "difficulty": "beginner",
-    "module_number": 12,
-    "certification": "paid"
-  },
-  {
-   "id": 87,
+   "id": 88,
    "platform": "educative",
    "free_course": "no",
-   "course_name": "Data Structures for Coding Interviews in Python",
-   "link": "https://www.educative.io/courses/data-structures-coding-interviews-python",
-   "diffic ulty": "beginner",
-   "module_number": 10,
+   "course_name": "Python 101: Interactively learn how to program with Python 3",
+   "link": "https://www.educative.io/courses/python-101-interactively-learn-how-to-program-with-python-3",
+   "difficulty": "beginner",
+   "module_number": 43,
    "certification": "paid"
  }
 ]
