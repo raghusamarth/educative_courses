@@ -649,7 +649,7 @@
     "module_number": 8,
     "certification": "paid"
   },
-    {
+  {
     "id": 91,
     "platform": "educative",
     "free_course": "no",
@@ -658,6 +658,17 @@
     "difficulty": "Intermediate",
     "module_number": 8,
     "certification": "paid"
-  }  
+  },
+  {
+    "id": 86,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Make Your Own Neural Network in Python",
+    "link": "https://www.educative.io/courses/make-your-own-neural-network-in-python",
+    "diffic ulty": "beginner",
+    "module_number": 12,
+    "certification": "paid"
+ }
+
 ]
 
