@@ -488,5 +488,17 @@
     "difficulty": "beginner",
     "module_number": 8,
     "certification": "paid"
+  },
+  {
+    "id": 51,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Testing React Applications with Postman and WebdriverIO",
+    "link": "https://www.educative.io/courses/testing-react-applications-with-postman-and-webdriver-io",
+    "difficulty": "beginner",
+    "module_number": 10,
+    "certification": "paid"
   }
+  
+  
 ]
