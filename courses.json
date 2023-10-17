@@ -609,6 +609,16 @@
     "module_number": 7,
     "certification": "paid"
   },
+  {
+    "id": 128,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "AWS Cost Optimization",
+    "link": "https://www.educative.io/courses/aws-cost-optimization",
+    "difficulty": "intermediate",
+    "module_number": 7,
+    "certification": "paid"
+  },
     {
     "id": 90,
     "platform": "educative",
