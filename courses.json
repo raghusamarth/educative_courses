@@ -490,6 +490,16 @@
     "certification": "paid"
   },
   {
+    "id": 98,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "A Visual Introduction to Algorithms",
+    "link": "https://www.educative.io/courses/visual-introduction-to-algorithms",
+    "difficulty": "beginner",
+    "module_number": 8,
+    "certification": "paid"
+  },
+  {
     "id": 99,
     "platform": "educative",
     "free_course": "no",
