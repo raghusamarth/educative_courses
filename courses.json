@@ -488,5 +488,15 @@
     "difficulty": "beginner",
     "module_number": 8,
     "certification": "paid"
+  },
+  {
+    "id": 101,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Testing Vue.js Components with Jest",
+    "link": "https://www.educative.io/courses/testing-vuejs-components-with-jest",
+    "difficulty": "advanced",
+    "module_number": 10,
+    "certification": "paid"
   }
 ]
