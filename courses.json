@@ -3,7 +3,7 @@
     "id": 1,
     "platform": "educative",
     "free_course": "no",
-    "course_name": "learn to code :python for absolute beginners",
+    "course_name": "Learn to code : Python for absolute beginners",
     "link": "https://www.educative.io/courses/learn-to-code-python-for-absolute-beginners",
     "difficulty": "beginners",
     "module_number": 15,
@@ -728,5 +728,16 @@
     "difficulty": "beginner",
     "module_number": 7,
     "certification": "paid"
+  },
+ {
+    "id": 130,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Computing Matrix Algebra with R and Rcpp",
+    "link": "https://www.educative.io/courses/computing-matrix-algebra-with-r-and-rcpp",
+    "difficulty": "intermediate",
+    "module_number": 14,
+    "certification": "paid"
   }
 ]
+
