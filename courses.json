@@ -658,6 +658,17 @@
     "difficulty": "Intermediate",
     "module_number": 8,
     "certification": "paid"
-  }  
+  },
+   {
+    "id" : 140,
+    "platform" : "educative",
+    "free_course" : "no",
+    "course_name" : "Become a React Developer",
+    "link" : "https://www.educative.io/path/become-a-react-developerata",
+    "difficulty" : "Intermediate",
+    "module_number" : 4,
+    "certification" : "paid"
+  }
+  
 ]
 
