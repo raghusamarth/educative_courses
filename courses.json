@@ -738,6 +738,16 @@
     "difficulty": "intermediate",
     "module_number": 14,
     "certification": "paid"
+  },
+{
+    "id": 131,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Performing Modern Statistical Analysis with R",
+    "link": "https://www.educative.io/courses/performing-modern-statistical-analysis-r",
+    "difficulty": "intermediate",
+    "module_number": 18,
+    "certification": "paid"
   }
 ]
 
