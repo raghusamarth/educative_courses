@@ -778,6 +778,26 @@
     "difficulty": "intermediate",
     "module_number": 18,
     "certification": "paid"
+  },
+   {
+    "id" : 140,
+    "platform" : "educative",
+    "free_course" : "no",
+    "course_name" : "Become a React Developer",
+    "link" : "https://www.educative.io/path/become-a-react-developerata",
+    "difficulty" : "Intermediate",
+    "module_number" : 4,
+    "certification" : "paid"
+  },
+  {
+    "id" : 141,
+    "platform" : "educative",
+    "free_course" : "no",
+    "course_name" : "Marketing Analytics Using Machine Learning Techniques",
+    "link" : "https://www.educative.io/courses/marketing-analytics-using-machine-learning-techniques",
+    "difficulty" : "Beginner",
+    "module_number" : 7,
+    "certification" : "paid"
   }
 ]
 
