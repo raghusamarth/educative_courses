@@ -769,6 +769,16 @@
     "module_number": 15,
     "certification": "paid"
   },
+  {
+    "id": 135,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "The Ultimate Guide to Rust Programming",
+    "link": "https://www.educative.io/courses/ultimate-guide-to-rust-programming",
+    "difficulty": "intermediate",
+    "module_number": 18,
+    "certification": "paid"
+  },
    {
     "id" : 140,
     "platform" : "educative",
