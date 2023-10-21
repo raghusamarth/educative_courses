@@ -1,5 +1,15 @@
 [
   {
+    "id": 1,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Learn to code : Python for absolute beginners",
+    "link": "https://www.educative.io/courses/learn-to-code-python-for-absolute-beginners",
+    "difficulty": "beginners",
+    "module_number": 15,
+    "certification": "paid"
+   },
+  {
     "id": 2,
     "platform": "educative",
     "free_course": "no",
@@ -729,4 +739,75 @@
     "module_number": 13,
     "certification": "paid"
   }
+ {
+    "id": 142,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Computing Matrix Algebra with R and Rcpp",
+    "link": "https://www.educative.io/courses/computing-matrix-algebra-with-r-and-rcpp",
+    "difficulty": "intermediate",
+    "module_number": 14,
+    "certification": "paid"
+  },
+{
+    "id": 131,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Performing Modern Statistical Analysis with R",
+    "link": "https://www.educative.io/courses/performing-modern-statistical-analysis-r",
+    "difficulty": "intermediate",
+    "module_number": 18,
+    "certification": "paid"
+  },
+{
+    "id": 133,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Using R for Data Analysis in Social Sciences",
+    "link": "https://www.educative.io/courses/using-r-data-analysis-social-sciences",
+    "difficulty": "intermediate",
+    "module_number": 11,
+    "certification": "paid"
+},
+  {
+    "id": 132,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Game Data Science Using R",
+    "link": "https://www.educative.io/courses/game-data-science-using-r",
+    "difficulty": "intermediate",
+    "module_number": 15,
+    "certification": "paid"
+  },
+  {
+    "id": 135,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "The Ultimate Guide to Rust Programming",
+    "link": "https://www.educative.io/courses/ultimate-guide-to-rust-programming",
+    "difficulty": "intermediate",
+    "module_number": 18,
+    "certification": "paid"
+  },
+   {
+    "id" : 140,
+    "platform" : "educative",
+    "free_course" : "no",
+    "course_name" : "Become a React Developer",
+    "link" : "https://www.educative.io/path/become-a-react-developerata",
+    "difficulty" : "Intermediate",
+    "module_number" : 4,
+    "certification" : "paid"
+  },
+  {
+    "id" : 141,
+    "platform" : "educative",
+    "free_course" : "no",
+    "course_name" : "Marketing Analytics Using Machine Learning Techniques",
+    "link" : "https://www.educative.io/courses/marketing-analytics-using-machine-learning-techniques",
+    "difficulty" : "Beginner",
+    "module_number" : 7,
+    "certification" : "paid"
+  }
 ]
+
