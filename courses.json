@@ -729,8 +729,18 @@
     "module_number": 7,
     "certification": "paid"
   },
- {
+  {
     "id": 130,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Swift Programming for mobile app development",
+    "link": "https://www.educative.io/courses/swift-programming-mobile-app",
+    "difficulty": "beginner",
+    "module_number": 13,
+    "certification": "paid"
+  }
+ {
+    "id": 142,
     "platform": "educative",
     "free_course": "no",
     "course_name": "Computing Matrix Algebra with R and Rcpp",
@@ -769,6 +779,16 @@
     "module_number": 15,
     "certification": "paid"
   },
+  {
+    "id": 135,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "The Ultimate Guide to Rust Programming",
+    "link": "https://www.educative.io/courses/ultimate-guide-to-rust-programming",
+    "difficulty": "intermediate",
+    "module_number": 18,
+    "certification": "paid"
+  },
    {
     "id" : 140,
     "platform" : "educative",
@@ -790,7 +810,7 @@
     "certification" : "paid"
   },
   {
-    "id" : 142,
+    "id" : 144,
     "platform" : "educative",
     "free_course" : "no",
     "course_name" : "Prompt Engineering: Building a Professional Portfolio",
