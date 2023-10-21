@@ -829,6 +829,15 @@
     "module_number" : 16,
     "certification" : "paid"
   },
-  
+  {
+    "id" : 145,
+    "platform" : "educative",
+    "free_course" : "no",
+    "course_name" : "Mastering Algorithms for Problem Solving in Java",
+    "link" : "https://www.educative.io/courses/mastering-algorithms-for-problem-solving-in-java",
+    "difficulty" : "Intermediate",
+    "module_number" : 12,
+    "certification" : "paid"
+  },
 ]
 
