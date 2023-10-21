@@ -798,6 +798,17 @@
     "difficulty" : "Beginner",
     "module_number" : 8,
     "certification" : "paid"
-  }
+  },
+   {
+    "id" : 143,
+    "platform" : "educative",
+    "free_course" : "no",
+    "course_name" : "Hands-On Quantum Machine Learning with Python",
+    "link" : "https://www.educative.io/courses/hands-on-quantum-machine-learning-python",
+    "difficulty" : "Advanced",
+    "module_number" : 16,
+    "certification" : "paid"
+  },
+  
 ]
 
