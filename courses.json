@@ -520,7 +520,7 @@
       "certification": "paid"
     },
     {
-      "id": 88,
+      "id": 54,
       "platform": "educative",
       "free_course": "no",
       "course_name": "Python 101: Interactively learn how to program with Python 3",
@@ -530,7 +530,7 @@
       "certification": "paid"
     },
     {
-      "id": 89,
+      "id": 55,
       "platform": "educative",
       "free_course": "no",
       "course_name": "Full Speed Python",
@@ -540,7 +540,7 @@
       "certification": "paid"
     },
     {
-      "id": 90,
+      "id": 56,
       "platform": "educative",
       "free_course": "no",
       "course_name": "Surfacing Video Data with the Dailymotion Data API in JavaScript",
@@ -550,7 +550,7 @@
       "certification": "paid"
     },
     {
-      "id": 91,
+      "id": 57,
       "platform": "educative",
       "free_course": "no",
       "course_name": "Animations in Angular",
@@ -560,7 +560,7 @@
       "certification": "paid"
     },
     {
-      "id": 92,
+      "id": 58,
       "platform": "educative",
       "free_course": "no",
       "course_name": "Using fp-ts for Functional Programming in TypeScript",
@@ -570,7 +570,7 @@
       "certification": "paid"
     },
     {
-      "id": 95,
+      "id": 59,
       "platform": "educative",
       "free_course": "no",
       "course_name": "A Complete Guide to Java Programming",
@@ -580,7 +580,7 @@
       "certification": "paid"
     },
     {
-      "id": 98,
+      "id": 60,
       "platform": "educative",
       "free_course": "no",
       "course_name": "A Visual Introduction to Algorithms",
@@ -590,7 +590,7 @@
       "certification": "paid"
     },
     {
-      "id": 99,
+      "id": 61,
       "platform": "educative",
       "free_course": "no",
       "course_name": " Python 3: An interactive deep dive",
@@ -600,7 +600,7 @@
       "certification": "paid"
     },
     {
-      "id": 100,
+      "id": 62,
       "platform": "educative",
       "free_course": "no",
       "course_name": "Hands-on Vue.js: Build a fully functional SPA",
@@ -610,7 +610,7 @@
       "certification": "paid"
     },
     {
-      "id": 101,
+      "id": 63,
       "platform": "educative",
       "free_course": "no",
       "course_name": "Testing Vue.js Components with Jest",
@@ -620,7 +620,7 @@
       "certification": "paid"
     },
     {
-      "id": 106,
+      "id": 64,
       "platform": "educative",
       "free_course": "no",
       "course_name": "Getting Started with LINQ in C#",
@@ -630,7 +630,7 @@
       "certification": "paid"
     },
     {
-      "id": 107,
+      "id": 65,
       "platform": "educative",
       "free_course": "no",
       "course_name": "Mastering C# and .NET",
@@ -640,7 +640,7 @@
       "certification": "paid"
     },
     {
-      "id": 108,
+      "id": 66,
       "platform": "educative",
       "free_course": "no",
       "course_name": "C# Concurrency for Senior Engineering Interviews",
@@ -650,7 +650,7 @@
       "certification": "paid"
     },
     {
-      "id": 109,
+      "id": 67,
       "platform": "educative",
       "free_course": "no",
       "course_name": "Learn to Code: C# for Absolute Beginners",
@@ -660,7 +660,7 @@
       "certification": "paid"
     },
     {
-      "id": 115,
+      "id": 68,
       "platform": "educative",
       "free_course": "no",
       "course_name": "React and GraphQL: Build an E-commerce App with Hygraph",
@@ -670,7 +670,7 @@
       "certification": "paid"
     },
     {
-      "id": 118,
+      "id": 69,
       "platform": "educative",
       "free_course": "no",
       "course_name": "Grokking Modern System Design Interview for Engineers & Managers",
@@ -680,7 +680,7 @@
       "certification": "paid"
     },
     {
-      "id": 125,
+      "id": 70,
       "platform": "educative",
       "free_course": "no",
       "course_name": "Mastering Algorithms for Problem Solving in C++",
@@ -690,7 +690,7 @@
       "certification": "paid"
     },
     {
-      "id": 126,
+      "id": 71,
       "platform": "educative",
       "free_course": "no",
       "course_name": "Marketing Analytics Using Machine Learning Techniques",
@@ -700,7 +700,7 @@
       "certification": "paid"
     },
     {
-      "id": 127,
+      "id": 72,
       "platform": "educative",
       "free_course": "no",
       "course_name": "Data Structures Preliminaries (Refresher of Fundamentals in C++)",
@@ -710,7 +710,7 @@
       "certification": "paid"
     },
     {
-      "id": 128,
+      "id": 73,
       "platform": "educative",
       "free_course": "no",
       "course_name": "AWS Cost Optimization",
@@ -720,7 +720,7 @@
       "certification": "paid"
     },
     {
-      "id": 129,
+      "id": 74,
       "platform": "educative",
       "free_course": "no",
       "course_name": "Blogging Using the Blogger API in Python",
@@ -730,7 +730,7 @@
       "certification": "paid"
     },
     {
-      "id": 130,
+      "id": 75,
       "platform": "educative",
       "free_course": "no",
       "course_name": "Swift Programming for mobile app development",
@@ -740,7 +740,7 @@
       "certification": "paid"
     },
    {
-      "id": 142,
+      "id": 76,
       "platform": "educative",
       "free_course": "no",
       "course_name": "Computing Matrix Algebra with R and Rcpp",
@@ -750,7 +750,7 @@
       "certification": "paid"
     },
   {
-      "id": 131,
+      "id": 77,
       "platform": "educative",
       "free_course": "no",
       "course_name": "Performing Modern Statistical Analysis with R",
@@ -760,7 +760,7 @@
       "certification": "paid"
     },
   {
-      "id": 133,
+      "id": 78,
       "platform": "educative",
       "free_course": "no",
       "course_name": "Using R for Data Analysis in Social Sciences",
@@ -770,7 +770,7 @@
       "certification": "paid"
   },
     {
-      "id": 132,
+      "id": 79,
       "platform": "educative",
       "free_course": "no",
       "course_name": "Game Data Science Using R",
@@ -780,7 +780,7 @@
       "certification": "paid"
     },
     {
-      "id": 135,
+      "id": 80,
       "platform": "educative",
       "free_course": "no",
       "course_name": "The Ultimate Guide to Rust Programming",
@@ -790,7 +790,7 @@
       "certification": "paid"
     },
      {
-      "id" : 140,
+      "id" : 81,
       "platform" : "educative",
       "free_course" : "no",
       "course_name" : "Become a React Developer",
@@ -800,7 +800,7 @@
       "certification" : "paid"
     },
     {
-      "id" : 141,
+      "id" : 82,
       "platform" : "educative",
       "free_course" : "no",
       "course_name" : "Marketing Analytics Using Machine Learning Techniques",
@@ -810,7 +810,7 @@
       "certification" : "paid"
     },
       {
-      "id" : 142,
+      "id" : 83,
       "platform" : "educative",
       "free_course" : "no",
       "course_name" : "Infrastructure as Code Using Terraform",
@@ -820,7 +820,7 @@
       "certification" : "paid"
     },
     {
-      "id" : 144,
+      "id" : 84,
       "platform" : "educative",
       "free_course" : "no",
       "course_name" : "Prompt Engineering: Building a Professional Portfolio",
@@ -830,7 +830,7 @@
       "certification" : "paid"
     },
      {
-      "id" : 143,
+      "id" : 85,
       "platform" : "educative",
       "free_course" : "no",
       "course_name" : "Hands-On Quantum Machine Learning with Python",
@@ -840,7 +840,17 @@
       "certification" : "paid"
     },
     {
-      "id" : 145,
+      "id" : 86,
+      "platform" : "educative",
+      "free_course" : "no",
+      "course_name" : "Building Scalable Web Applications Using AWS CLI & WordPress",
+      "link" : "https://www.educative.io/courses/building-scalable-web-applications-using-aws-cli-and-wordpress",
+      "difficulty" : "Advanced",
+      "module_number" : 21,
+      "certification" : "paid"
+    },
+    {
+      "id" : 87,
       "platform" : "educative",
       "free_course" : "no",
       "course_name" : "Mastering Algorithms for Problem Solving in Java",
