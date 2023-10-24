@@ -848,6 +848,16 @@
       "difficulty" : "Intermediate",
       "module_number" : 12,
       "certification" : "paid"
+    },
+    {
+      "id" : 146,
+      "platform" : "educative",
+      "free_course" : "no",
+      "course_name" : "Automate Workflows with AWS Step Functions",
+      "link" : "https://www.educative.io/courses/automate-workflows-with-aws-step-functions",
+      "difficulty" : "Intermediate",
+      "module_number" : 14,
+      "certification" : "paid"
     }
   ]
   
