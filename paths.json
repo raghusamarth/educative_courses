@@ -1,1 +1,22 @@
-
+[
+  {
+      "id" : 1,
+      "platform" : "educative",
+      "free_course" : "no",
+      "course_name" : "Fundamentals of AWS",
+      "link" : "https://www.educative.io/path/fundamentals-of-aws",
+      "difficulty" : "Beginner",
+      "module_number" : 3,
+      "certification" : "paid"
+    },
+    {
+      "id" : 2,
+      "platform" : "educative",
+      "free_course" : "no",
+      "course_name" : "Become an AWS Professional",
+      "link" : "https://www.educative.io/path/become-an-aws-professional",
+      "difficulty" : "Intermediate",
+      "module_number" : 3,
+      "certification" : "paid"
+    }
+]
