@@ -1525,7 +1525,7 @@
       "free_course" : "no",
       "course_name" : "Become a React Developer",
       "link" : "https://www.educative.io/path/become-a-react-developerata",
-      "difficulty" : "Intermediate",
+      "difficulty" : "intermediate",
       "module_number" : 4,
       "certification" : "paid"
     },
@@ -1535,7 +1535,7 @@
       "free_course" : "no",
       "course_name" : "Marketing Analytics Using Machine Learning Techniques",
       "link" : "https://www.educative.io/courses/marketing-analytics-using-machine-learning-techniques",
-      "difficulty" : "Beginner",
+      "difficulty" : "beginner",
       "module_number" : 7,
       "certification" : "paid"
     },
@@ -1545,7 +1545,7 @@
       "free_course" : "no",
       "course_name" : "Infrastructure as Code Using Terraform",
       "link" : "https://www.educative.io/courses/infrastructure-as-code-using-terraform",
-      "difficulty" : "Beginner",
+      "difficulty" : "beginner",
       "module_number" : 7,
       "certification" : "paid"
     },
@@ -1555,7 +1555,7 @@
       "free_course" : "no",
       "course_name" : "Prompt Engineering: Building a Professional Portfolio",
       "link" : "https://www.educative.io/courses/prompt-engineering-building-a-professional-portfolio",
-      "difficulty" : "Beginner",
+      "difficulty" : "beginner",
       "module_number" : 8,
       "certification" : "paid"
     },
@@ -1565,7 +1565,7 @@
       "free_course" : "no",
       "course_name" : "Hands-On Quantum Machine Learning with Python",
       "link" : "https://www.educative.io/courses/hands-on-quantum-machine-learning-python",
-      "difficulty" : "Advanced",
+      "difficulty" : "advanced",
       "module_number" : 16,
       "certification" : "paid"
     },
@@ -1575,17 +1575,27 @@
       "free_course" : "no",
       "course_name" : "Mastering Algorithms for Problem Solving in Java",
       "link" : "https://www.educative.io/courses/mastering-algorithms-for-problem-solving-in-java",
-      "difficulty" : "Intermediate",
+      "difficulty" : "intermediate",
       "module_number" : 12,
       "certification" : "paid"
     },
     {
+      "id" : 148,
+      "platform" : "educative",
+      "free_course" : "no",
+      "course_name" : "Powerful Command-Line Applications in Go",
+      "link" : "https://www.educative.io/courses/powerful-command-line-applications-in-go",
+      "difficulty" : "Intermediate",
+      "module_number" : 13,
+      "certification" : "paid"
+    },
+  {
       "id" : 146,
       "platform" : "educative",
       "free_course" : "no",
       "course_name" : "Grokking the Low Level Design Interview Using OOD Principles",
       "link" : "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles",
-      "difficulty" : "Intermediate",
+      "difficulty" : "intermediate",
       "module_number" : 28,
       "certification" : "paid"
     },
@@ -1595,9 +1605,8 @@
       "free_course" : "no",
       "course_name" : "Automate Workflows with AWS Step Functions",
       "link" : "https://www.educative.io/courses/automate-workflows-with-aws-step-functions",
-      "difficulty" : "Intermediate",
+      "difficulty" : "intermediate",
       "module_number" : 14,
       "certification" : "paid"
     }
   ]
-
