@@ -1583,6 +1583,16 @@
       "id" : 146,
       "platform" : "educative",
       "free_course" : "no",
+      "course_name" : "Grokking the Low Level Design Interview Using OOD Principles",
+      "link" : "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles",
+      "difficulty" : "Intermediate",
+      "module_number" : 28,
+      "certification" : "paid"
+    },
+  {
+      "id" : 149,
+      "platform" : "educative",
+      "free_course" : "no",
       "course_name" : "Automate Workflows with AWS Step Functions",
       "link" : "https://www.educative.io/courses/automate-workflows-with-aws-step-functions",
       "difficulty" : "Intermediate",
