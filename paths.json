@@ -59,6 +59,16 @@
       "module_number" : 6,
       "certification" : "paid"
     },
+   {
+      "id" : 7,
+      "platform" : "educative",
+      "free_course" : "no",
+      "course_name" : "Full-Stack Development with Spring Boot and Vue.js",
+      "link" : "https://www.educative.io/path/full-stack-development-with-spring-boot-and-vue-jsd",
+      "difficulty" : "Beginner",
+      "module_number" : 3,
+      "certification" : "paid"
+    },
   
   
 ]
