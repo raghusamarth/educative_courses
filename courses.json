@@ -1619,6 +1619,20 @@
       "module_number" : 14,
       "certification" : "paid"
 
+    },
+    {
+      "id" : 150,
+      "platform" : "educative",
+      "free_course" : "no",
+      "course_name" : "Control Access to Your Applications Using Auth0 API in JavaScript",
+      "link" : "https://www.educative.io/courses/control-access-to-your-apps-using-auth0-api-in-javascript",
+      "difficulty" : "intermediate",
+      "module_number" : 14,
+      "certification" : "paid"
+    }
+  ]
+
+
     }
   {
     "id" : 150,
@@ -1644,3 +1658,4 @@
       "module_number" : 398,
       "certification" : "free"
     },
+
