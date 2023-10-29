@@ -53,10 +53,10 @@
       "id" : 6,
       "platform" : "educative",
       "free_course" : "no",
-      "course_name" : "Become an AWS and Terraform Expert",
-      "link" : "https://www.educative.io/path/become-an-aws-and-terraform-expert",
+      "course_name" : "Pandas: Python for Data Analysis",
+      "link" : "https://www.educative.io/path/python-for-data-analysis",
       "difficulty" : "Beginner",
-      "module_number" : 3,
+      "module_number" : 5,
       "certification" : "paid"
     }
 ]
