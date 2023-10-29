@@ -63,10 +63,10 @@
       "id" : 7,
       "platform" : "educative",
       "free_course" : "no",
-      "course_name" : "Become a Machine Learning Engineer",
-      "link" : "https://www.educative.io/path/become-a-machine-learning-engineer",
-      "difficulty" : "Intermediate",
-      "module_number" : 6,
+      "course_name" : "Ace the Python Coding Interview",
+      "link" : "https://www.educative.io/path/ace-python-coding-interview",
+      "difficulty" : "Beginner",
+      "module_number" : 7,
       "certification" : "paid"
     }
 ]
