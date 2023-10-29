@@ -70,13 +70,23 @@
       "certification" : "paid"
     },
   {
-      "id" : 7,
+      "id" : 8,
       "platform" : "educative",
       "free_course" : "no",
       "course_name" : "Ace the Python Coding Interview",
       "link" : "https://www.educative.io/path/ace-python-coding-interview",
       "difficulty" : "Beginner",
       "module_number" : 7,
+      "certification" : "paid"
+    },
+  {
+      "id" : 9,
+      "platform" : "educative",
+      "free_course" : "no",
+      "course_name" : "Pandas: Python for Data Analysis",
+      "link" : "https://www.educative.io/path/python-for-data-analysis",
+      "difficulty" : "Intermediate",
+      "module_number" : 5,
       "certification" : "paid"
     }
 ]
