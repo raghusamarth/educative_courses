@@ -88,5 +88,15 @@
       "difficulty" : "Intermediate",
       "module_number" : 5,
       "certification" : "paid"
+    },
+   {
+      "id" : 10,
+      "platform" : "educative",
+      "free_course" : "no",
+      "course_name" : "Become an AWS and Terraform Expert",
+      "link" : "https://www.educative.io/path/become-an-aws-and-terraform-expert",
+      "difficulty" : "Beginner",
+      "module_number" : 3,
+      "certification" : "paid"
     }
 ]
