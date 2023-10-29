@@ -90,6 +90,16 @@
       "certification" : "paid"
     },
    {
+      "id" : 11,
+      "platform" : "educative",
+      "free_course" : "no",
+      "course_name" : "React for Front-End Developers",
+      "link" : "https://www.educative.io/path/react-front-end-developer",
+      "difficulty" : "Beginner",
+      "module_number" : 4,
+     "certification" : "paid"
+   },
+  {     
       "id" : 12,
       "platform" : "educative",
       "free_course" : "no",
