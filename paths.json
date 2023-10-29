@@ -68,5 +68,15 @@
       "difficulty" : "Intermediate",
       "module_number" : 6,
       "certification" : "paid"
+    },
+  {
+      "id" : 7,
+      "platform" : "educative",
+      "free_course" : "no",
+      "course_name" : "Ace the Python Coding Interview",
+      "link" : "https://www.educative.io/path/ace-python-coding-interview",
+      "difficulty" : "Beginner",
+      "module_number" : 7,
+      "certification" : "paid"
     }
 ]
