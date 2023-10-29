@@ -38,5 +38,16 @@
       "difficulty" : "Beginner",
       "module_number" : 10,
       "certification" : "paid"
-    }
+    },
+  {
+      "id" : 5,
+      "platform" : "educative",
+      "free_course" : "no",
+      "course_name" : "Fundamentals of DevOps",
+      "link" : "https://www.educative.io/path/fundamentals-of-devops",
+      "difficulty" : "Beginner",
+      "module_number" : 4,
+      "certification" : "paid"
+    },
+  
 ]
