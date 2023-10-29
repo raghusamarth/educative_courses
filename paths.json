@@ -28,5 +28,15 @@
       "difficulty" : "Beginner",
       "module_number" : 5,
       "certification" : "paid"
+    },
+   {
+      "id" : 4,
+      "platform" : "educative",
+      "free_course" : "no",
+      "course_name" : "DevOps for Developers",
+      "link" : "https://www.educative.io/path/devops-for-developers",
+      "difficulty" : "Beginner",
+      "module_number" : 10,
+      "certification" : "paid"
     }
 ]
