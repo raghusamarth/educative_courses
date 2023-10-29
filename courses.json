@@ -1629,11 +1629,7 @@
       "difficulty" : "intermediate",
       "module_number" : 14,
       "certification" : "paid"
-    }
-  ]
-
-
-    }
+    },
   {
     "id" : 150,
     "platform" : "educative",
@@ -1643,11 +1639,7 @@
     "difficulty" : "beginner",
     "module_number" : 13, 
     "certification" : "free"
-  }
-    
-  ]
-
-    },
+  },
    {
       "id" : 150,
       "platform" : "educative",
@@ -1657,5 +1649,6 @@
       "difficulty" : "intermediate",
       "module_number" : 398,
       "certification" : "free"
-    },
+    }
+]
 
